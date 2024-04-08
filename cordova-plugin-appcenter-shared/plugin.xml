@@ -40,7 +40,7 @@
                        value="com.microsoft.azure.mobile.cordova.AppCenterSharedPlugin"/>
             </feature>
         </config-file>
-        <framework src="com.microsoft.appcenter:appcenter:2.4.1" />
+<!--         <framework src="com.microsoft.appcenter:appcenter:2.4.1" /> -->
     </platform>
 
     <platform name="ios">
@@ -63,7 +63,7 @@
                 <pod name="AppCenter" spec="~> 2.5.0" />
             </pods>
         </podspec>
-        <framework src="AppCenter" type="podspec" spec="~> 2.5.0" />
+<!--         <framework src="AppCenter" type="podspec" spec="~> 2.5.0" /> -->
     </platform>
 </plugin>
 
